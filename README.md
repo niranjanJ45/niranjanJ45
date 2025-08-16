@@ -1,4 +1,4 @@
-# Niranjanj
+
 <h1 align="center">Hi 👋, I'm Niranjan jirage</h1>
 <h3 align="center">A passionate CSE student & Aspiring engineer from India</h3>
 
