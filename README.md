@@ -14,5 +14,6 @@
 <h3 align="left">About me:</h3>
 <p align="left">I'm a final-year CSE Engineering student at VSM Institute of Technology with a CGPA of 8.31. I'am passionate about web developer & problem solver who loves building interactive projects and learning new technologies.
   <br>
+  
 I enjoy turning ideas into reality through projects, and interactive designs.
 </p>
